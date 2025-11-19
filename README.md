@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hey,+I'm+Calixte;Builder+%7CData+AI+%7C+%7C+Digital" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hey,+I'm+Calixte;Builder+%7CData+AI+%7CDigital" alt="Typing SVG" />
 </h1>
 
 <p align="center">
