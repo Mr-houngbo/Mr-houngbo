@@ -1,3 +1,7 @@
+<table bgcolor="#0d0d0d" width="100%">
+<tr><td>
+
+
 <!-- Banner -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hey,+I'm+Calixte;Welcome+here+and+have+a+seat" alt="Typing SVG" />
@@ -70,3 +74,8 @@ Driven by one mission: **design systems that uplift Africa and redefine what’s
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=450&lines=%22A+monster+is+rising+smoothly.%22" alt="Typing SVG" />
 </p>
+
+
+
+</td></tr>
+</table>
