@@ -1,55 +1,71 @@
 <!-- Banner -->
-<h1 align="center">👋🏾 Hey, I'm <strong>Gord Enver</strong></h1>
-<p align="center">Builder • Digital Transformation • AI • IoT • Vision Africa 2030</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hey,+I'm+Gord+Enver;Builder+%7C+AI+%7C+IoT+%7C+Digital+Transformation" alt="Typing SVG" />
+</h1>
 
----
-
-## 🛠️ Tech & Tools  
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scilab-7719AA?style=for-the-badge&logo=scilab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Builder-AI%20%7C%20IoT%20%7C%20Automation-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Africa_Focused-000000?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🚀 What I'm Building  
-- **DIDO** — AI-powered online tailoring (Computer Vision + Craftsmanship)  
-- **Alpha** — A lifestyle brand for students & dreamers  
-- **IoT Smart Irrigation** — Precision agriculture for small farmers  
-- **AI Agents & Automation** — Python, Supabase, and custom workflows  
+## 🚀 Projects I'm Building  
+🔥 **DIDO** — AI-driven online tailoring (CV + Measurement Extraction)  
+⚡ **Alpha** — Student-focused lifestyle brand  
+🌱 **Smart Irrigation IoT** — Precision agriculture for small farmers  
+🤖 **AI Agents** — Automation, detection systems & Supabase workflows  
+
+---
+
+## 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=8A2BE2"/>
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=8A2BE2"/>
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=8A2BE2"/>
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ff4500"/>
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00bfff"/>
+  <img src="https://img.shields.io/badge/R_Lang-000000?style=for-the-badge&logo=r&logoColor=8A2BE2"/>
+  <img src="https://img.shields.io/badge/Scilab-000000?style=for-the-badge&logo=scilab&logoColor=8A2BE2"/>
+</p>
 
 ---
 
 ## 🎯 Current Focus  
 <p align="center">
-  <img src="https://img.shields.io/badge/English-C2_Target-0A66C2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Full--Stack_Web-Progress-ff9800?style=flat-square"/>
-  <img src="https://img.shields.io/badge/AI_Engineering-Ongoing-8E24AA?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Digital_Transformation-Mastering-4CAF50?style=flat-square"/>
+  <img src="https://img.shields.io/badge/English-C2_Target-8A2BE2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Full--Stack_Web-Progress-ff0080?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AI_Engineering-Ongoing-00e5ff?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Digital_Transformation-Mastering-8A2BE2?style=flat-square"/>
 </p>
 
 ---
 
-## 🌍 About Me
+## 🌌 About Me  
 <p align="center">
-  From <strong>Benin</strong> • Living in <strong>Dakar</strong><br/>
-  Passionate about technology, impact, and building solutions for Africa.
+I build systems. I solve real problems.  
+I create for Africa and the world.
 </p>
 
 ---
 
-## 📫 Connect  
+## 📊 GitHub Stats (Neon Mode)
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="mailto:gordenver.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=GordEnver&show_icons=true&theme=nightowl&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GordEnver&layout=compact&theme=nightowl&hide_border=true" height="160"/>
 </p>
 
 ---
 
-<p align="center"><strong>"I build to elevate myself… and elevate Africa."</strong></p>
+## 🔗 Connect with Me  
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8A2BE2"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=8A2BE2"/></a>
+  <a href="mailto:gordenver.dev@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=8A2BE2"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=450&lines=%22I+build+to+elevate+Africa.%22" alt="Typing SVG" />
+</p>
