@@ -1,7 +1,3 @@
-<table bgcolor="orange" width="100%">
-<tr><td>
-
-
 <!-- Banner -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hey,+I'm+Calixte;Welcome+here+and+have+a+seat" alt="Typing SVG" />
@@ -18,10 +14,10 @@
 <br/><br/>
 
 ## 👤 About Me  
-I build **AI-powered solutions** for real problems — from digital tailoring systems to intelligent irrigation models.  
-Focused on **automation, data, IoT, and scalable product architecture**.  
-Driven by one mission: **design systems that uplift Africa and redefine what’s possible**.
 
+Rising digital professional with a strong math foundation, pursuing a Master’s in Digital Transformation and Digital Finance. 
+Skilled in **Data Science, AI, Automation, and Digital Project Management**. 
+Open to opportunities to **learn, contribute, and grow** with visionary teams.
 
 <br/><br/>
 
@@ -74,8 +70,3 @@ Driven by one mission: **design systems that uplift Africa and redefine what’s
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=450&lines=%22A+monster+is+rising+smoothly.%22" alt="Typing SVG" />
 </p>
-
-
-
-</td></tr>
-</table>
