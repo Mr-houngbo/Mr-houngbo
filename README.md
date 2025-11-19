@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Builder-AI%20%7C%20IoT%20%7C%20Automation-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Developer-01d000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Student-Master_in_Digital_Transformation-000000?style=for-the-badge&logoColor=8A2BE2"/>
 </p>
 
 <br/><br/>
@@ -25,13 +24,6 @@ Open to opportunities to **learn, contribute, and grow** with visionary teams.
 <table align="center">
   <tr>
     <td align="center" width="300">
-      <a href="https://github.com/Mr-houngbo/DIDO" target="_blank">
-        <img src="https://img.shields.io/badge/DIDO-AI%20Tailoring-8A2BE2?style=for-the-badge" />
-      </a>
-      <br/>
-      <sub>AI-powered measurement extraction + smart tailoring workflow</sub>
-    </td>
-    <td align="center" width="300">
       <a href="https://github.com/Mr-houngbo/AlphaBrand" target="_blank">
         <img src="https://img.shields.io/badge/Alpha%20Brand-Lifestyle%20Platform-111111?style=for-the-badge&logoColor=8A2BE2" />
       </a>
@@ -39,7 +31,6 @@ Open to opportunities to **learn, contribute, and grow** with visionary teams.
       <sub>Digital-first affordable fashion brand for students</sub>
     </td>
   </tr>
-
   <tr>
     <td align="center" width="300">
       <a href="https://github.com/Mr-houngbo/AI-Agents" target="_blank">
@@ -47,14 +38,6 @@ Open to opportunities to **learn, contribute, and grow** with visionary teams.
       </a>
       <br/>
       <sub>Detectors, workflow systems & Supabase-native automation</sub>
-    </td>
-    
-   <td align="center" width="300">
-      <a href="https://github.com/Mr-houngbo/Smart-Irrigation" target="_blank">
-        <img src="https://img.shields.io/badge/Smart%20Irrigation-ML%20%2B%20IoT-111111?style=for-the-badge&logoColor=00e5ff" />
-      </a>
-      <br/>
-      <sub>IoT + machine learning tools for small farmers</sub>
     </td>
   </tr>
 </table>
