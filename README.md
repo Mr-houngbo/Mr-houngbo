@@ -8,14 +8,10 @@
   <img src="https://img.shields.io/badge/Developer-01d000?style=for-the-badge"/>
 </p>
 
----
-
 ## 🚀 Projects I'm Building  
 🔥 **DIDO** — AI-driven online tailoring (CV + Measurement Extraction)  
 ⚡ **Alpha** — Student-focused lifestyle brand  
 🤖 **AI Agents** — Automation, detection systems & Supabase workflows  
-
----
 
 ## 🛠️ Tech Stack  
 <p align="center">
@@ -28,18 +24,13 @@
   <img src="https://img.shields.io/badge/Scilab-000000?style=for-the-badge&logo=scilab&logoColor=8A2BE2"/>
 </p>
 
----
-
 ## 🎯 Current Focus  
 <p align="center">
   <img src="https://img.shields.io/badge/English-C2_Target-8A2BE2?style=flat-square"/>
   <img src="https://img.shields.io/badge/Full--Stack_Web-Progress-ff0080?style=flat-square"/>
   <img src="https://img.shields.io/badge/AI_Engineering-Ongoing-00e5ff?style=flat-square"/>
   <img src="https://img.shields.io/badge/Digital_Transformation-Mastering-8A2BE2?style=flat-square"/>
-  I learn . Discover . I build systems. I solve real problems.  
 </p>
-
----
 
 ## 🔗 Connect with Me  
 <p align="center">
