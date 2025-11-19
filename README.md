@@ -2,7 +2,9 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hey,+I'm+Calixte;Welcome+here+and+have+a+seat" alt="Typing SVG" />
 </h1>
+
 ---
+
 <p align="center">
   <img src="https://img.shields.io/badge/Builder-AI%20%7C%20IoT%20%7C%20Automation-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Developer-01d000?style=for-the-badge"/>
