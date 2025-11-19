@@ -1,11 +1,11 @@
 <!-- Banner -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hey,+I'm+Calixte;Builder+%7C+Aspiring+Data+Scientist+AI+%7C+IoT+%7C+Digital+Transformation+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hey,+I'm+Calixte;Builder+%7CData+AI+%7C+IoT+%7C+Digital" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Builder-AI%20%7C%20IoT%20%7C%20Automation-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Developer-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Developer-01d000?style=for-the-badge"/>
 </p>
 
 ---
@@ -36,21 +36,7 @@
   <img src="https://img.shields.io/badge/Full--Stack_Web-Progress-ff0080?style=flat-square"/>
   <img src="https://img.shields.io/badge/AI_Engineering-Ongoing-00e5ff?style=flat-square"/>
   <img src="https://img.shields.io/badge/Digital_Transformation-Mastering-8A2BE2?style=flat-square"/>
-</p>
-
----
-
-## 🌌 About Me  
-<p align="center">
-I learn . Discover . I build systems. I solve real problems.  
-</p>
-
----
-
-## 📊 GitHub Stats (Neon Mode)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GordEnver&show_icons=true&theme=nightowl&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GordEnver&layout=compact&theme=nightowl&hide_border=true" height="160"/>
+  I learn . Discover . I build systems. I solve real problems.  
 </p>
 
 ---
