@@ -21,14 +21,48 @@ Open to opportunities to **learn, contribute, and grow** with visionary teams.
 
 <br/><br/>
 
-##  Projects I'm Building  
-🔥 **DIDO** — AI-driven online tailoring (CV + Measurement Extraction)  
-⚡ **Alpha** — Student-focused lifestyle brand  
-🤖 **AI Agents** — Automation, detection systems & Supabase workflows  
+##  🚀 Projects I'm Building  
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+      <a href="https://github.com/Mr-houngbo/DIDO" target="_blank">
+        <img src="https://img.shields.io/badge/DIDO-AI%20Tailoring-8A2BE2?style=for-the-badge" />
+      </a>
+      <br/>
+      <sub>AI-powered measurement extraction + smart tailoring workflow</sub>
+    </td>
+
+    <td align="center" width="300">
+      <a href="https://github.com/Mr-houngbo/AlphaBrand" target="_blank">
+        <img src="https://img.shields.io/badge/Alpha%20Brand-Lifestyle%20Platform-111111?style=for-the-badge&logoColor=8A2BE2" />
+      </a>
+      <br/>
+      <sub>Digital-first affordable fashion brand for students</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="300">
+      <a href="https://github.com/Mr-houngbo/AI-Agents" target="_blank">
+        <img src="https://img.shields.io/badge/AI%20Agents-Automation%20Bots-8A2BE2?style=for-the-badge" />
+      </a>
+      <br/>
+      <sub>Detectors, workflow systems & Supabase-native automation</sub>
+    </td>
+
+    <td align="center" width="300">
+      <a href="https://github.com/Mr-houngbo/Smart-Irrigation" target="_blank">
+        <img src="https://img.shields.io/badge/Smart%20Irrigation-ML%20%2B%20IoT-111111?style=for-the-badge&logoColor=00e5ff" />
+      </a>
+      <br/>
+      <sub>IoT + machine learning tools for small farmers</sub>
+    </td>
+  </tr>
+</table>
 
 <br/><br/>
 
-##  Tech Stack  
+##  🛠️ Tech Stack  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=8A2BE2"/>
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=8A2BE2"/>
@@ -48,7 +82,7 @@ Open to opportunities to **learn, contribute, and grow** with visionary teams.
 
 <br/><br/>
 
-##  Current Focus  
+##  🎯 Current Focus  
 <p align="center">
   <img src="https://img.shields.io/badge/English-C2_Target-8A2BE2?style=flat-square"/>
   <img src="https://img.shields.io/badge/Full--Stack_Web-Progress-ff0080?style=flat-square"/>
