@@ -30,8 +30,6 @@ Open to opportunities to **learn, contribute, and grow** with visionary teams.
       <br/>
       <sub>Digital-first affordable fashion brand for students</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="300">
       <a href="https://github.com/Mr-houngbo/AI-Agents" target="_blank">
         <img src="https://img.shields.io/badge/AI%20Agents-Automation%20Bots-8A2BE2?style=for-the-badge" />
