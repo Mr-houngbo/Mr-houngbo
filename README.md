@@ -12,14 +12,14 @@
 
 <br/><br/>
 
-## 🚀 Projects I'm Building  
+##  Projects I'm Building  
 🔥 **DIDO** — AI-driven online tailoring (CV + Measurement Extraction)  
 ⚡ **Alpha** — Student-focused lifestyle brand  
 🤖 **AI Agents** — Automation, detection systems & Supabase workflows  
 
 <br/><br/>
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=8A2BE2"/>
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=8A2BE2"/>
@@ -32,7 +32,7 @@
 
 <br/><br/>
 
-## 🎯 Current Focus  
+##  Current Focus  
 <p align="center">
   <img src="https://img.shields.io/badge/English-C2_Target-8A2BE2?style=flat-square"/>
   <img src="https://img.shields.io/badge/Full--Stack_Web-Progress-ff0080?style=flat-square"/>
