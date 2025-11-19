@@ -8,7 +8,16 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Builder-AI%20%7C%20IoT%20%7C%20Automation-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Developer-01d000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Student-Master_in_Digital_Transformation-000000?style=for-the-badge&logoColor=8A2BE2"/>
 </p>
+
+<br/><br/>
+
+## 👤 About Me  
+I build **AI-powered solutions** for real problems — from digital tailoring systems to intelligent irrigation models.  
+Focused on **automation, data, IoT, and scalable product architecture**.  
+Driven by one mission: **design systems that uplift Africa and redefine what’s possible**.
+
 
 <br/><br/>
 
@@ -24,10 +33,17 @@
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=8A2BE2"/>
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=8A2BE2"/>
   <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=8A2BE2"/>
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ff4500"/>
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00bfff"/>
-  <img src="https://img.shields.io/badge/R_Lang-000000?style=for-the-badge&logo=r&logoColor=8A2BE2"/>
+  <img src="https://img.shields.io/badge/HTML5-CSS3-000000?style=for-the-badge&logo=html5&logoColor=ff4500"/>
+  <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=8A2BE2"/>
   <img src="https://img.shields.io/badge/Scilab-000000?style=for-the-badge&logo=scilab&logoColor=8A2BE2"/>
+</p>
+
+<br/><br/>
+
+## 📊 GitHub Insights  
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mr-houngbo&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-houngbo&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <br/><br/>
